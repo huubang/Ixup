@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ixup.Assessment", "Ixup.Assessment\Ixup.Assessment.csproj", "{4EDA91A4-C193-4360-BAC5-58657EAD0FF0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ixup.Business", "Ixup.Business\Ixup.Business.csproj", "{5BCE7E18-3FD8-423F-865F-4493918614BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ixup.Test", "Ixup.Test\Ixup.Test.csproj", "{C55DFF8F-4817-4283-9E6D-79E93687C7AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{4EDA91A4-C193-4360-BAC5-58657EAD0FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EDA91A4-C193-4360-BAC5-58657EAD0FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EDA91A4-C193-4360-BAC5-58657EAD0FF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BCE7E18-3FD8-423F-865F-4493918614BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BCE7E18-3FD8-423F-865F-4493918614BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BCE7E18-3FD8-423F-865F-4493918614BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BCE7E18-3FD8-423F-865F-4493918614BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C55DFF8F-4817-4283-9E6D-79E93687C7AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C55DFF8F-4817-4283-9E6D-79E93687C7AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C55DFF8F-4817-4283-9E6D-79E93687C7AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C55DFF8F-4817-4283-9E6D-79E93687C7AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
