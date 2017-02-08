@@ -40,6 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Extensions.cs" />
+    <Compile Include="SinglyLinkedList.cs" />
     <Compile Include="Shapes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
